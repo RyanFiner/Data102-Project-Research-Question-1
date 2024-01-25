@@ -4,7 +4,7 @@ Question: Trying to predict success of a movie by the actors in it.
 
 Data acquired from IMDB non-commercial dataset, oscar data from Kaggle, and a subset of the TMDB dataset from Kaggle.
 
-3.1 Predicting the Success of a Movie
+From My portion of the report:
 
 Within prediction, it is important to understand your goals and data within
 your data set. Success can be classified in many ways, how a movie exists within
@@ -92,14 +92,23 @@ of many of the features as they were binary multi label features.
 Interpretation
 
 Linear reggression RMSE: 121.36312325097859
+
 Linear reggression AIC: 7250.589213135677
+
 Poisson reggression RMSE: 126.80943889985578
+
 Poisson reggression AIC: 5719.711275570056
+
 Negattive-Binomial reggression RMSE: 131.92244459068834
+
 Negattive-Binomial reggression AIC: 5918.7754699785655
+
 Random Forest reggression RMSE: 116.76598157890236
+
 Random Forest reggression AIC: N/A
+
 MLP reggression REGRESSION RMSE: 122.07755914615204
+
 MLP reggression REGRESSION AIC: N/A
 
 From the graphs and the metrics we can see that the best model according
