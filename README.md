@@ -5,6 +5,7 @@ Question: Trying to predict success of a movie by the actors in it.
 Data acquired from IMDB non-commercial dataset, oscar data from Kaggle, and a subset of the TMDB dataset from Kaggle.
 
 3.1 Predicting the Success of a Movie
+
 Within prediction, it is important to understand your goals and data within
 your data set. Success can be classified in many ways, how a movie exists within
 the cultural sphere long after it has been released, the ratings and awards it
